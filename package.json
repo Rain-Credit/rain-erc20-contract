@@ -1,0 +1,28 @@
+{
+  "name": "raintoken",
+  "version": "1.0.0",
+  "description": "Rain.Credit ERC20 token for bsc",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "keywords": [
+    "Rain.Credit",
+    "Ethereum",
+    "binance smart chain",
+    "bnb",
+    "solidity"
+  ],
+  "author": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^3.4.0",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/hardhat-upgrades": "^1.6.0",
+    "chai": "^4.3.0",
+    "ethereum-waffle": "^3.2.2",
+    "ethers": "^5.0.31",
+    "hardhat": "^2.0.10"
+  }
+}
